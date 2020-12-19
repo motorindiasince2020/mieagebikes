@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+The business mileage reimbursement rate is an optional standard mileage rate used in the United States for purposes of computing the allowable business deduction, for Federal income tax purposes under the Internal Revenue Code, at 26 U.S.C. § 162, for the business use of a vehicle. Under the law, the taxpayer for each year is generally entitled to deduct either the actual expense amount, or an amount computed using the standard mileage rate, whichever is greater.
 
-You can use the [editor on GitHub](https://github.com/motorindiasince2020/mieagebikes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+The business mileage reimbursement rate is used by some employers for computing employee reimbursement amounts when an employee operates a motor vehicle not owned by the employer for the employer's business purposes. The General Services Administration (GSA) sets the rate for federal jobs. In general, the GSA rate matches the annual rate set by the IRS, although by law the government employee reimbursement rate cannot exceed the mileage rate set by the IRS for business deductions.[1]
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/motorindiasince2020/mieagebikes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Reimbursement by an employer on a per-mile basis is also used in other countries; it offers a similar simplification to payment of subsistence per diem.
